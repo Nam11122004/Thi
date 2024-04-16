@@ -1,0 +1,28 @@
+{
+  "LopHoc": [
+    {
+      "ten_lop_ph36187": "lớp app",
+      "so_phong_ph36187": "11",
+      "so_ghe_ph36187": 10,
+      "khu_nha_ph36187": "khu2463463",
+      "hinh_anh_ph36187": "https://i.pinimg.com/736x/ba/e2/f5/bae2f5ecfc3c735222362939b62135bf.jpg",
+      "id": "7b48"
+    },
+    {
+      "id": "83ea",
+      "ten_lop_ph36187": "Nam",
+      "so_phong_ph36187": "11",
+      "so_ghe_ph36187": "12",
+      "khu_nha_ph36187": "12",
+      "hinh_anh_ph36187": "https://i.pinimg.com/736x/d3/36/02/d33602d4f38fafe2cdd5ebba468e82f9.jpg"
+    },
+    {
+      "id": "54e0",
+      "ten_lop_ph36187": "Nam",
+      "so_phong_ph36187": "124",
+      "so_ghe_ph36187": "124",
+      "khu_nha_ph36187": "124",
+      "hinh_anh_ph36187": "https://i.pinimg.com/736x/21/dd/55/21dd5538257fd77e17b35b39d9d903ea.jpg"
+    }
+  ]
+}
